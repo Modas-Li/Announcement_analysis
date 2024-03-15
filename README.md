@@ -21,7 +21,7 @@
 
 ##  简介
 
-XC-internlm2-chat 是一个集成了金融公告理解能力的大语言模型。该模型使用分类标注的市场公告数据集，基于 InternLM2-chat-7B 模型，通过xtuner+deepspeed微调，专门设计用于公告信息检索、风险监控、市场分析。
+XC-internlm2-chat 是一个集成了金融公告理解能力的大语言模型。该模型使用分类标注的市场公告数据集，基于 InternLM2-chat-7B 模型，通过xtuner+deepspeed微调，专门设计用于公告信息检索、风险监控、市场分析。演示视频地址：https://www.bilibili.com/video/BV1w2421P7vb/?share_source=copy_web&vd_source=c31a5bbfdd644e9240e17c40e65974c4
 
 ## 团队介绍
 
