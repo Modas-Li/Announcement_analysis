@@ -1,5 +1,4 @@
-![image](https://github.com/Modas-Li/Announcement_analysis/assets/40042370/cf98b902-cba5-4278-8ab3-352fa18e87e3)# XC-internlm2-chat 金融公告理解
-<div align="center">
+# XC-internlm2-chat 金融公告理解
 
 
 
